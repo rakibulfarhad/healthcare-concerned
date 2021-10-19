@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "CARDIOLOGY",
+        "price": "300",
+        "description": "A cardiologist specializes in diagnosing and treating diseases of the cardiovascular system. The cardiologist will carry out tests, and they may perform some procedures, such as heart catheterizations, angioplasty, or inserting a pacemaker.",
+        "img": "https://i.ibb.co/JB0Ncnp/1600062902.png"
+    },
+    {
+        "id": 2,
+        "name": "CRITICAL CARE MEDICINE",
+        "price": "100",
+        "description": "Critical care is for hospital patients with serious health problems who need intensive medical care and monitoring. Patients in intensive care units, also called ICUs, are cared for by a team of providers that may include: Specially trained nurses. Physicians.",
+        "img": "https://i.ibb.co/G23PtfZ/1600078506.png"
+    },
+    {
+        "id": 3,
+        "name": "DENTAL UNIT",
+        "price": "150",
+        "description": "staying in an NHS hospital and your treatment is carried out by the hospital dentist. an NHS hospital dental service outpatient – but you may have to pay for your dentures or bridges.",
+        "img": "https://i.ibb.co/R7RHcyz/1600078590.png"
+    },
+    {
+        "id": 4,
+        "name": "DERMATOLOGY",
+        "price": "180",
+        "description": "Dermatologists are doctors who diagnose, investigate, treat and manage the conditions of children and adults with skin disease, as well as hair and nail complaints.",
+        "img": "https://i.ibb.co/HrcmGhV/dermatology-1600277777.jpg"
+    },
+    {
+        "id": 5,
+        "name": "DIABETOLOGY",
+        "price": "100",
+        "description": "An Endocrinologist is a specialist who treats those with hormone imbalances from within the endocrine system, including thyroid disorders and diabetes. Many people who have trouble controlling their Type 2 Diabetes are often referred to an endocrinologist to have their medications reassessed.",
+        "img": "https://i.ibb.co/cvWHgSq/Panther-Media-906049.jpg"
+    },
+    {
+        "id": 6,
+        "name": "ENT & HEAD NECK SURGERY",
+        "price": "300",
+        "description": "The ENT Department provides specialist care for patients not only with conditions of the ear, nose and throat, but also for others in the head and neck area. It is a consultant-led service (meaning that a fully qualified consultant is overseeing your care at all times).",
+        "img": "https://i.ibb.co/ct8TX4c/ent-head-neck-surgery-1600280352.jpg" 
+    }
+]
