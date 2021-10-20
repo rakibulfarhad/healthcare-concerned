@@ -16,8 +16,8 @@ const Banner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h1 className="text-info">Service First</h1>
+                        <p className="text-info">The ‘Center of Excellences’ are Gastro Liver Center, Mother & Child Care Center.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -28,8 +28,8 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h1 className="text-info">Your Healthcare Solution</h1>
+                        <p className="text-info">Doctor Solution Hospitals Ltd. has been established by Brothers group.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -40,8 +40,8 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Third slide label</h3>
-                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                        <h1 className="text-info">All Diagnostic fees 20% discount.</h1>
+                        <p className="text-info">Doctor Solution Hospitals Ltd. is a 308 bedded five star boutique hotel like hospital.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -52,8 +52,8 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Third slide label</h3>
-                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                        <h1 className="text-info">Actual diagnosis report.</h1>
+                        <p className="text-info">The new hospital is equipped with the latest & most modern medical technology.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>

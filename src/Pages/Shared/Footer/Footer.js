@@ -13,7 +13,7 @@ const Footer = () => {
                 
                 <p className="mt-4 ">
                   <small>
-                    ELH Online has arrived with learning programmes and certification at par with global standards which would create a significant impact on a youth’s future career.
+                  DOCTOR SOLUTION is an international standard hospital with the facilities of 05 ‘Centers of Excellence’. The ‘Center of Excellences’ are Gastro Liver Center, Mother & Child Care Center, Brain & Spine Center, Nephrology & Urology Center, Bone & Joint Center and other most modern ancillary & specialized Services.
                   </small>
                 </p>
 
