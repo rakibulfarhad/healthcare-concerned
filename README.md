@@ -3,7 +3,21 @@
 
 ## Live Site Link : https://doctor-solution.web.app
 
-### Your Healthcare Solution.
-### All Diagnostic fees 20% discount.
-### Actual diagnosis report.
-### One Stop Service.
+
+Key Feature:
+
+- Developed react app to get selected diagnosis service.
+- Authentication system applied for services details.
+- Fake API used for services, doctors, reviews, and all.
+
+
+Technology we use to build this project:
+
+
+- Html
+- Css
+- React js
+- React Router
+- React Bootstrap
+- Firebase.
+
